@@ -7,3 +7,6 @@ Bu proje, GitHub üzerinde kullanıcı profillerini aramak, görüntülemek ve i
 - **Kullanıcı Profili Arama:** GitHub kullanıcılarını isimleri üzerinden arayabilirsiniz.
 - **Profil Görüntüleme:** Aranan kullanıcının GitHub profilini ayrıntılı bir şekilde görüntüleyebilirsiniz.
 - **Depo Erişimi:** Kullanıcının sahip olduğu repoları ve bu repoların detaylarını görüntüleyebilirsiniz.
+
+<h3>Ekran Görüntüsü</h3>
+![](github.gif)
